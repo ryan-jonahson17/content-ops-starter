@@ -41,6 +41,8 @@ sections:
         self:
           padding:
             - pr-6
+          margin:
+            - mr-5
     badge:
       label: This is a badge
       color: text-primary
