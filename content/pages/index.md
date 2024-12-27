@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: By Bryan Leal
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      This site contains a collection of programming projects that I have
+      created over the years. These projects where used for school, personal,
+      self learning purposes. This projects where made using a variety of
+      different languages such as HTML, CSS, Python
     actions:
       - label: Get started
         altText: ''
