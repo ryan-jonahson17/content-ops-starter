@@ -45,6 +45,7 @@ sections:
             - mr-5
             - ml-5
             - mb-5
+            - mt-5
     badge:
       label: This is a badge
       color: text-primary
